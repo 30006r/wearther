@@ -1,0 +1,13 @@
+# wearther
+
+A weather-based outfit recommendation app.
+
+## Features
+
+- Real-time weather display
+- Outfit recommendations
+- PWA support
+
+## Deploy
+
+This folder can be directly deployed to Vercel.
