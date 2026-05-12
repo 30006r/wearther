@@ -1,0 +1,1 @@
+{"name":"wearther","short_name":"wearther","description":"天气穿搭助手 - 根据天气推荐穿搭","start_url":"/","display":"standalone","background_color":"#FAF7F2","theme_color":"#8B7355","lang":"en","scope":"/","orientation":"portrait-primary","icons":[{"src":"/logo.png","sizes":"512x512","type":"image/png"}]}
